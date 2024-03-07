@@ -12,4 +12,4 @@ Fundamentos de Diseño
 
 ## Guia pdf de github
 
-[Enlace al documento PDF](C:\Users\JOSE\Downloads\GUIA_N1-_Git_y_Github_-_FdD.pdf)
+[Enlace al documento PDF](Descargas\GUIA_N1-_Git_y_Github_-_FdD.pdf)

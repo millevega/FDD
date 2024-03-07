@@ -7,4 +7,8 @@ Fundamentos de Diseño
 2. Jota 
 3. unveneco
 
-![Imagen](https://c8.alamy.com/compes/exarrj/los-integrantes-del-equipo-tienen-negocios-alegre-momento-juntos-exarrj.jpg)
+![Imagen](e.jpg)
+
+´´´python
+
+print("Hola mundo")

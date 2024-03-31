@@ -25,8 +25,3 @@ Lima, Perú
 Aun en fase de eleccion
 
 ![Imagen](https://www.parlamentoandino.org/images/servicios/informacion/ODS.jpg)
-
-# Guia pdf de github
-
-[Enlace al documento PDF](Descargas\GUIA_N1-_Git_y_Github_-_FdD.pdf)DF
-

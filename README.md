@@ -1,7 +1,7 @@
 # FDD
 Fundamentos de Diseño
 
-# Intregrantes del Gru
+# Intregrantes del Grupo
 
 1. Bruno Gavidia
 2. Jota
@@ -12,6 +12,6 @@ Fundamentos de Diseño
 
 ## Guia pdf de github
 
-[Enlace al documento PDF](Descargas\GUIA_N1-_Git_y_Github_-_FdD.pdf)
+[Enlace al documento PDF](Descargas\GUIA_N1-_Git_y_Github_-_FdD.pdf)DF
 
 # HOLA

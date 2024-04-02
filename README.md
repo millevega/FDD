@@ -14,7 +14,7 @@ Fundamentos de Diseño
 4. Quiñones Vargas, Jazmin Yllary Milagros
 5. Vega Pahuara, Millene Nadile
 
-![Imagen](https://c8.alamy.com/compes/exarrj/los-integrantes-del-equipo-tienen-negocios-alegre-momento-juntos-exarrj.jpg)
+![Imagen](Foto_integrantes_FDD)
 
 # Ubicación
 

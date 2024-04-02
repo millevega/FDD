@@ -14,7 +14,7 @@ Fundamentos de Diseño
 4. Quiñones Vargas, Jazmin Yllary Milagros
 5. Vega Pahuara, Millene Nadile
 
-![Imagen](Foto_integrantes_FDD)
+![Imagen](Foto_integrantes_FDD.jpg)
 
 # Ubicación
 
